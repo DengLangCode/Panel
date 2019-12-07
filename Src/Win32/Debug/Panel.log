@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Generate moc_predefs.h
+  Reading Qt configuration (D:\Qt5.10.0\5.10.0\msvc2015\bin\qmake.exe)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Generate moc_predefs.h
+  uic mainwindow.ui
+  uic SinglePanel.ui
+  moc mainwindow.h
+  main.cpp
+  mainwindow.cpp
+  SinglePanel.cpp
+SinglePanel.cpp(3): warning C4100: “parent”: 未引用的形参
+  moc_mainwindow.cpp
+  Panel.vcxproj -> E:\git\Panel\Src\..\Build\Debug\Panel.exe
